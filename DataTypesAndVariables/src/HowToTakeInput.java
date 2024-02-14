@@ -15,5 +15,13 @@ public class HowToTakeInput {
 	int a = now.nextInt();
 	int b = now.nextInt();
 	System.out.println(a+b);
+	
+	
+	
+//	//3 the small s
+//	scanner scn = new scanner(System.in);
+//	int x = scn.nextInt();
+//	System.out.println(x);
+	
 	}
 }

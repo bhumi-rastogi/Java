@@ -19,10 +19,12 @@ public class InputOutput {
     	
 // Double quote printing
     	System.out.println("AlgoPrep");
+      	System.out.println("Hello      world");
     	
   
 // Plus Sign in output
     	System.out.println(7*10 + "Hello");
+    	System.out.println(7*10 + " Hello");
     	
     	
 //Declaring the variables

@@ -11,7 +11,7 @@ public class PracticeQuestions {
 		System.out.println(a+" "+b);
 		
 		
-		int temp = 100;
+//		int temp = 100;
 //		System.out.println(True);
 		
 		

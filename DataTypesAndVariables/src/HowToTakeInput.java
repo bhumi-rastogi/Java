@@ -11,9 +11,8 @@ public class HowToTakeInput {
 	
 	
 	//2
-	Scanner now = new Scanner(System.in);
-	int a = now.nextInt();
-	int b = now.nextInt();
+	int a = scn.nextInt();
+	int b = scn.nextInt();
 	System.out.println(a+b);
 	
 	
@@ -22,6 +21,9 @@ public class HowToTakeInput {
 //	scanner scn = new scanner(System.in);
 //	int x = scn.nextInt();
 //	System.out.println(x);
+	
+	scn.close();
+	//to close scn
 	
 	}
 }
